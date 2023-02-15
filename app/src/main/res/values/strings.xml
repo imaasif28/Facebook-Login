@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignUP</string>
+    <string name="facebook_app_id">2407003829459731</string>
+    <!-- The client token is available in Settings > Advanced > Security section of the app dashboard. -->
+    <string name="facebook_client_token">6827c29a83982fae597a9593ab8d71f7</string>
+    <string name="fb_login_protocol_scheme">fb2407003829459731</string>
+    <!-- keep the fb prefix and remove braces-->
+
+</resources>
